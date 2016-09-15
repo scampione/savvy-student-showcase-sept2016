@@ -8,3 +8,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 Written by,
 + Alex Pearson
 + Sam Campione
++ Amy Kempen
