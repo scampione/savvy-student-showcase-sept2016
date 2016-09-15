@@ -19,6 +19,9 @@ span.fa{
     text-decoration: none;
 }
 
+/*
+Start of "Sam Campione" content
+*/
 #sam .title {
     font-family: 'Raleway' , sans-serif;
     font-size: 1.55rem;
@@ -32,17 +35,22 @@ span.fa{
     font-size: 1.05rem;
     color:#818181;
     margin: .5rem 0;
-
 }
 
+/* links for contact info */
+#sam nav {
+    display: flex;
+    justify-content: space-between;
+}
 #sam nav a {
     font-size: 1.08rem;
     color:#a1a1a1;
     text-decoration: none;
-    padding-right: .5rem;
 }
-
 #sam nav a:hover{
-    color:cornflowerblue;
-    text-decoration: none;
+    color:#00aced;
+    transition: all .5s ease;
 }
+/*
+End of "Sam Campione" content
+*/
