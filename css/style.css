@@ -3,5 +3,18 @@ img {
 }
 span.fa{
     font-size: 2rem;
-    margin: 0 auto;
+}
+#alex h3{
+    margin: 0.25rem 0;
+    font-weight: 700;
+}
+#alex .icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#alex a{
+    text-decoration: none;
 }
