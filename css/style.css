@@ -18,3 +18,29 @@ span.fa{
 #alex a{
     text-decoration: none;
 }
+
+#sam .title {
+    font-family: 'Raleway' , sans-serif;
+    font-size: 1.75rem;
+    color:#445566;
+    margin: .5rem 0;
+}
+
+#sam .blurb {
+    font-family: 'Times new roman', serif;
+    font-size: 1.05rem;
+    color:#818181;
+    margin: .5rem 0;
+
+}
+
+#sam .contact nav a {
+    font-size: 1.08rem;
+    color:#a1a1a1;
+    text-decoration: none;
+}
+
+#sam .contact nav a:hover{
+    color:cornflowerblue;
+    text-decoration: none;
+}
